@@ -1,0 +1,4 @@
+# GameBoost 运行时零第三方依赖（纯 Python 标准库 + tkinter）。
+# 以下仅为构建 EXE 时所需：
+
+pyinstaller>=6.0

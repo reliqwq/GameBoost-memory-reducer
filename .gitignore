@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+dist/
+.buildenv/
+*.spec
+
+# Runtime user data (generated on first run)
+config.json
+icons_cache/
+
+# Python
+__pycache__/
+*.pyc
+cleanup_log.txt
